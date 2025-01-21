@@ -34,11 +34,13 @@ By completing this project, the following capabilities were demonstrated:
 - **Dashboard Design:** Building interactive, professional-grade dashboards that meet corporate branding standards.
 - **Advanced Analytics:** Applying best practices in business intelligence for efficient and scalable data models.
 
-🗒️ Notes
+
+## 🗒️ Notes
 - **This dashboard was developed for educational purposes.**
 - **The data used is simulated and does not represent real business figures.**
 - **The project reflects the culmination of a beginner-to-pro Power BI course, designed to deliver practical skills for data-driven decision-making.**
 
-🤝 Acknowledgments
+
+## 🤝 Acknowledgments
 - **Course Organizer: Udemy – 15-Day Intermediate Power BI Training.**
 - **Special Thanks: To instructors and peers for insights and collaborative exercises throughout the course.**
