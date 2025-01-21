@@ -23,9 +23,9 @@ The dashboard focuses on real-world business scenarios, such as identifying cust
 ## 📂 Data and Methodology
 - **Data Source:** Anonymized real-world business data.
 - **Analysis Techniques:**
-- ***Time series and hierarchical analysis.***
-- ***Data summarization using aggregations and granularity techniques.***
-- ***Multi-dimensional analysis combining various datasets.***
+  - **Time series and hierarchical analysis.**
+  - **Data summarization using aggregations and granularity techniques.**
+  - **Multi-dimensional analysis combining various datasets.**
 
 
 ## 🚀 Course Takeaways
